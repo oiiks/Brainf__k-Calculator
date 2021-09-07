@@ -14,7 +14,7 @@
 ## Usage
 
 ```sh
-Sample usage: 10+10=
+Sample usage: 20+10=
 ```
 
 ```sh
